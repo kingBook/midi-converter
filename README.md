@@ -5,6 +5,8 @@ http://forum.cocos.com/t/midi-player/44794
 # MIDI Converter
 ### Installing:
 `npm install midi-converter`
+或
+`npm install`
 
 ### Converting from MIDI to JSON:
     var fs = require('fs');
